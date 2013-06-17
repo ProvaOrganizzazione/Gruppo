@@ -1,4 +1,0 @@
-Gruppo
-======
-
-Repo di gruppo
